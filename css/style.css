@@ -318,21 +318,21 @@ home section
 }
 
 /* ==========================================================================
-work section
+skill section
 ========================================================================== */
-#work {
+#skill {
     text-align: center;
 }
-#work .col-md-4 {
+#skill .col-md-4 {
   padding: 28px;
   position: relative;
   transition: all 0.4s ease-in-out;
 }
-#work .col-md-4:hover {
+#skill .col-md-4:hover {
   background-color: #ffffff;
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.20);
 }
-#work h3 {
+#skill h3 {
   font-size: 18px;
 }
 
@@ -530,124 +530,9 @@ portfolio section
   display: block;
 }
 
-/* /* ==========================================================================
-pricing section
-========================================================================== */
-#pricing {
-  text-align: center;
-}
-#pricing h2 {
-  font-size: 52px;
-}
-#pricing h3 {
-  font-size: 16px;
-}
-#pricing .plan {
-  box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.20);
-  padding-top: 40px;
-  padding-bottom: 80px;
-  margin-bottom: 32px;
-}
-#pricing .plan span {
-	font-size: 16px;
-}
-#pricing .plan .plan_title {
-  font-weight: 300;
-  letter-spacing: 2px;
-  padding: 30px;
-  margin-bottom: 20px;
-}
-#pricing .medium-icon {
-  box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.20);
-  border-radius: 50%;
-  font-size: 52px;
-  width: 120px;
-  height: 120px;
-  line-height: 120px;
-  text-align: center;
-  margin-bottom: 32px;
-}
-#pricing .plan ul {
-  padding: 0px;
-}
-#pricing .plan ul li {
-  display: block;
-  font-weight: 500;
-  padding: 12px 0px;
-}
-#pricing .plan .btn {
-  border: none;
-  border-radius: 0px;
-  color: #ffffff;
-  font-size: 16px;
-  font-weight: bold;
-  padding: 16px 60px;
-  transition: all 0.4s ease-in-out;
-  margin-top: 20px;
-  text-transform: uppercase;
-}
-#pricing .plan-one .btn {
-  background-color: #00c6d7;
-}
-#pricing .plan-two .btn {
-  background-color: #ffa400;
-}
-#pricing .plan-three .btn {
-  background-color: #009988;
-}
-#pricing .plan .btn:hover {
-  background-color: #3B3B3B;
-} */
 
-/* ==========================================================================
-education section
-========================================================================== */
-#contact {
-  background: #3B3B3B url('../images/img.jpg') no-repeat center center;
-  background-size: cover;
-  color: #ffffff;
-}
-#contact h2 {
-  padding-bottom: 20px;
-}
-#contact h3 {
-  font-size: 16px;
-  font-weight: bold;
-  letter-spacing: 1px;
-}
-#contact .medium-icon {
-  padding-top: 10px;
-  padding-right: 10px;
-}
-#contact .contact-info div {
-  padding-top: 14px;
-  padding-bottom: 14px;
-}
-#contact form {
-  padding-top: 60px;
-}
-#contact .form-control {
-  border: 2px solid #ffffff;
-  border-radius: 0;
-  box-shadow: none;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  transition: all 0.4s ease-in-out;
-}
-#contact input {
-  height: 40px;
-}
-#contact input[type="submit"] {
-  background: #00c6d7;
-  border: 3px solid #00c6d7;
-  letter-spacing: 1px;
-  margin-top: 18px;
-  height: 50px;
-  color: #ffffff;
-}
-#contact input[type="submit"]:hover {
-  color: #000000;
-}
+
+
 
 /* ==========================================================================
 contact section
